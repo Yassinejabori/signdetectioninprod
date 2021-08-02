@@ -11,3 +11,4 @@ matplotlib>=1.4.3
 pandas>=0.19
 opencv-python<=4.5.3
 mediapipe>=0.8.6.2
+pickle<=4.0
